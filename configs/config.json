@@ -1,0 +1,21 @@
+{
+    "General": {
+        "checkInterval": 10
+    },
+    "Steam": {
+        "apiKey": ""
+    },
+    "Discord": {
+        "botToken": "",
+        "botChannelInput": "",
+        "botChannelOutput": "",
+        "botCommandPrefix": "/",
+        "botCommand": "",
+        "allowBotCommands": false,
+        "accessRole": ""
+    },
+    "Screenshot": {
+        "saveScreenshot": true,
+        "sendScreenshot": true
+    }
+}

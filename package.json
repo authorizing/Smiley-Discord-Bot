@@ -1,0 +1,34 @@
+{
+  "name": "steambanchecker_discord",
+  "version": "1.0.1",
+  "description": "https://github.com/IceQ1337/SteamBanChecker for Discord",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IceQ1337/SteamBanChecker_Discord.git"
+  },
+  "keywords": [
+    "steam",
+    "csgo",
+    "discord",
+    "vac",
+    "overwatch"
+  ],
+  "author": "IceQ1337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IceQ1337/SteamBanChecker_Discord/issues"
+  },
+  "homepage": "https://github.com/IceQ1337/SteamBanChecker_Discord#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "nedb": "^1.8.0",
+    "request": "^2.88.2",
+    "steamid": "^2.0.0",
+    "webshot-node": "^0.18.2",
+    "xml2js": "^0.4.23"
+  }
+}
